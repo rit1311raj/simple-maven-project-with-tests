@@ -4,7 +4,7 @@ pipeline {
 
     tools {
        
-        maven "m3"
+        maven "m2"
     }
 
     stages {
